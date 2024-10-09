@@ -1,0 +1,599 @@
+{
+  "words": [
+    {
+      "id": 2,
+      "word_tent": "A'y",
+      "word_port": "Preguiça",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 3,
+      "word_tent": "Akazu",
+      "word_port": "Caju",
+      "category": "Fruta"
+    },
+    {
+      "id": 4,
+      "word_tent": "Akuxi",
+      "word_port": "Cutia",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 5,
+      "word_tent": "Amo pyhegwe pe",
+      "word_port": "Depois de amanhã",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 6,
+      "word_tent": "Amo pyhewe",
+      "word_port": "Depois de amanhã",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 7,
+      "word_tent": "Amu'a",
+      "word_port": "Centopeia",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 8,
+      "word_tent": "Anyra",
+      "word_port": "Morcego",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 9,
+      "word_tent": "Àràkwà",
+      "word_port": "Aracuã",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 10,
+      "word_tent": "Arapuhamoz",
+      "word_port": "Jiboia",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 11,
+      "word_tent": "Àràpuhàràna",
+      "word_port": "Carneiro",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 12,
+      "word_tent": "Arar",
+      "word_port": "Arara",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 13,
+      "word_tent": "Awá",
+      "word_port": "Homem",
+      "category": "Pessoa"
+    },
+    {
+      "id": 14,
+      "word_tent": "Azuru",
+      "word_port": "Papagaio",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 15,
+      "word_tent": "Eho",
+      "word_port": "Vai",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 16,
+      "word_tent": "Ezur",
+      "word_port": "Vem",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 17,
+      "word_tent": "Heinyr",
+      "word_port": "Irmã dele",
+      "category": "Pessoa"
+    },
+    {
+      "id": 18,
+      "word_tent": "Hemimino",
+      "word_port": "Neto, neta dele",
+      "category": "Pessoa"
+    },
+    {
+      "id": 19,
+      "word_tent": "Hemireko",
+      "word_port": "Esposa",
+      "category": "Pessoa"
+    },
+    {
+      "id": 20,
+      "word_tent": "Hemiriro",
+      "word_port": "Neto, neta dela",
+      "category": "Pessoa"
+    },
+    {
+      "id": 21,
+      "word_tent": "Ikywyr",
+      "word_port": "Irmão dela",
+      "category": "Pessoa"
+    },
+    {
+      "id": 22,
+      "word_tent": "Imemyr",
+      "word_port": "Filho/filha dela",
+      "category": "Pessoa"
+    },
+    {
+      "id": 23,
+      "word_tent": "Imen",
+      "word_port": "Marido/ esposo",
+      "category": "Pessoa"
+    },
+    {
+      "id": 24,
+      "word_tent": "Inaza",
+      "word_port": "Anajá",
+      "category": "Fruta"
+    },
+    {
+      "id": 25,
+      "word_tent": "Ipeum",
+      "word_port": "Genro dela",
+      "category": "Pessoa"
+    },
+    {
+      "id": 26,
+      "word_tent": "Ipurumuzàmuzàg",
+      "word_port": "Filhos",
+      "category": "Pessoa"
+    },
+    {
+      "id": 27,
+      "word_tent": "Ka'i",
+      "word_port": "Macaco",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 28,
+      "word_tent": "Kàmàriàw",
+      "word_port": "Camaleão",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 29,
+      "word_tent": "Kara",
+      "word_port": "Cará/inhame",
+      "category": "Fruta"
+    },
+    {
+      "id": 30,
+      "word_tent": "Kawaru",
+      "word_port": "Cavalo",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 31,
+      "word_tent": "Kumana'i",
+      "word_port": "Feijão",
+      "category": "Fruta"
+    },
+    {
+      "id": 32,
+      "word_tent": "Kumanahu",
+      "word_port": "Fava",
+      "category": "Fruta"
+    },
+    {
+      "id": 33,
+      "word_tent": "Kupi'i",
+      "word_port": "Cupim",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 34,
+      "word_tent": "Kutàri",
+      "word_port": "Hoje",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 35,
+      "word_tent": "Kuzà",
+      "word_port": "Mulher",
+      "category": "Pessoa"
+    },
+    {
+      "id": 36,
+      "word_tent": "Kwaharer’ wà",
+      "word_port": "Crianças",
+      "category": "Pessoa"
+    },
+    {
+      "id": 37,
+      "word_tent": "Màg",
+      "word_port": "Manga",
+      "category": "Fruta"
+    },
+    {
+      "id": 38,
+      "word_tent": "Mahek",
+      "word_port": "Marreco",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 39,
+      "word_tent": "Mainumy",
+      "word_port": "Beija–flor",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 40,
+      "word_tent": "Makaxer",
+      "word_port": "Macaxeira",
+      "category": "Fruta"
+    },
+    {
+      "id": 41,
+      "word_tent": "Mani'ok",
+      "word_port": "Mandioca",
+      "category": "Fruta"
+    },
+    {
+      "id": 42,
+      "word_tent": "Mirepar",
+      "word_port": "Amigo",
+      "category": "Pessoa"
+    },
+    {
+      "id": 43,
+      "word_tent": "Moz",
+      "word_port": "Cobra",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 44,
+      "word_tent": "Moz maraka ma'e",
+      "word_port": "Cobra cascavel",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 45,
+      "word_tent": "Mozuhu",
+      "word_port": "Sucuri",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 46,
+      "word_tent": "Muxi",
+      "word_port": "Camarão",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 47,
+      "word_tent": "Myryxi'a",
+      "word_port": "Buriti",
+      "category": "Fruta"
+    },
+    {
+      "id": 48,
+      "word_tent": "Nànà",
+      "word_port": "Abacaxi",
+      "category": "Fruta"
+    },
+    {
+      "id": 49,
+      "word_tent": "Nàràz",
+      "word_port": "Laranja",
+      "category": "Fruta"
+
+    },
+    {
+      "id": 50,
+      "word_tent": "Pako'a",
+      "word_port": "Banana",
+      "category": "Fruta"
+    },
+    {
+      "id": 51,
+      "word_tent": "Pakuri",
+      "word_port": "Bacuri",
+      "category": "Fruta"
+    },
+    {
+      "id": 52,
+      "word_tent": "Pànàm",
+      "word_port": "Borboleta",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 53,
+      "word_tent": "Pinuwa",
+      "word_port": "Bacaba",
+      "category": "Fruta"
+    },
+    {
+      "id": 54,
+      "word_tent": "Pitàwà",
+      "word_port": "Bem–te–vi",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 55,
+      "word_tent": "Pyhegwe pe",
+      "word_port": "Depois de amanhã",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 56,
+      "word_tent": "Pyhewe",
+      "word_port": "Amanhã",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 57,
+      "word_tent": "Rimàw",
+      "word_port": "Limão",
+      "category": "Fruta"
+    },
+    {
+      "id": 58,
+      "word_tent": "Ta'yr",
+      "word_port": "Filho dele",
+      "category": "Pessoa"
+    },
+    {
+      "id": 59,
+      "word_tent": "Tàmuz",
+      "word_port": "Avô",
+      "category": "Pessoa"
+    },
+    {
+      "id": 60,
+      "word_tent": "Tapi'ir",
+      "word_port": "Anta",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 61,
+      "word_tent": "Tapixi",
+      "word_port": "Coelho",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 62,
+      "word_tent": "Tàràpuir",
+      "word_port": "Corrupião",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 63,
+      "word_tent": "Tàrityka'i",
+      "word_port": "Agora",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 64,
+      "word_tent": "Tawewa",
+      "word_port": "Cajá",
+      "category": "Fruta"
+    },
+    {
+      "id": 65,
+      "word_tent": "Tazyr",
+      "word_port": "Filha dele",
+      "category": "Pessoa"
+    },
+    {
+      "id": 66,
+      "word_tent": "Tazywen",
+      "word_port": "Genro dele",
+      "category": "Pessoa"
+    },
+    {
+      "id": 67,
+      "word_tent": "Tezu",
+      "word_port": "Calango",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 68,
+      "word_tent": "Tu",
+      "word_port": "Pai",
+      "category": "Pessoa"
+    },
+    {
+      "id": 69,
+      "word_tent": "Tu'i",
+      "word_port": "Periquito",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 70,
+      "word_tent": "Tuagaw",
+      "word_port": "Padrasto/padrinho",
+      "category": "Pessoa"
+    },
+    {
+      "id": 71,
+      "word_tent": "Tukur",
+      "word_port": "Gafanhoto",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 72,
+      "word_tent": "Tururi",
+      "word_port": "Jaó",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 73,
+      "word_tent": "Tyrywe",
+      "word_port": "Barata",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 74,
+      "word_tent": "Urukure'a",
+      "word_port": "Coruja",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 75,
+      "word_tent": "Wàhu",
+      "word_port": "Babaçu",
+      "category": "Fruta"
+    },
+    {
+      "id": 76,
+      "word_tent": "Wararuha",
+      "word_port": "Carangueijo",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 77,
+      "word_tent": "Wariw",
+      "word_port": "Guariba",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 78,
+      "word_tent": "Waxi",
+      "word_port": "Milho",
+      "category": "Fruta"
+    },
+    {
+      "id": 79,
+      "word_tent": "Wiràxig",
+      "word_port": "Garça–branca",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 80,
+      "word_tent": "Wyrahu",
+      "word_port": "Gavião",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 81,
+      "word_tent": "Wyza'o",
+      "word_port": "Bacurau",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 82,
+      "word_tent": "Yhi",
+      "word_port": "Mãe",
+      "category": "Pessoa"
+    },
+    {
+      "id": 83,
+      "word_tent": "Yhiagaw",
+      "word_port": "Madrasta/madrinha",
+      "category": "Pessoa"
+    },
+    {
+      "id": 84,
+      "word_tent": "Ymàtà",
+      "word_port": "Caititu",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 85,
+      "word_tent": "Zaha",
+      "word_port": "Vamos",
+      "category": "Cotidiano"
+    },
+    {
+      "id": 86,
+      "word_tent": "Zakarana",
+      "word_port": "Fruto de jacarandá",
+      "category": "Fruta"
+    },
+    {
+      "id": 87,
+      "word_tent": "Zane karuk",
+      "word_port": "Boa tarde",
+      "category": "Cumprimento"
+    },
+    {
+      "id": 88,
+      "word_tent": "Zane ku’em",
+      "word_port": "Bom dia",
+      "category": "Cumprimento"
+    },
+    {
+      "id": 89,
+      "word_tent": "Zanu",
+      "word_port": "Aranha",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 90,
+      "word_tent": "Zanypaw",
+      "word_port": "Jenipapo",
+      "category": "Fruta"
+    },
+    {
+      "id": 91,
+      "word_tent": "Zary",
+      "word_port": "Avó",
+      "category": "Pessoa"
+    },
+    {
+      "id": 92,
+      "word_tent": "Zawar",
+      "word_port": "Cachorro",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 93,
+      "word_tent": "Zàwàruhu",
+      "word_port": "Onça",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 94,
+      "word_tent": "Zawazyr",
+      "word_port": "Escorpião",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 95,
+      "word_tent": "Zawewyr",
+      "word_port": "Arraia",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 96,
+      "word_tent": "Zawewyr",
+      "word_port": "Avestruz",
+      "category": "Animais / Insetos"
+    },
+    {
+      "id": 97,
+      "word_tent": "Zoromo",
+      "word_port": "Abobora",
+      "category": "Fruta"
+    },
+    {
+      "id": 98,
+      "word_tent": "Zoromoapyw",
+      "word_port": "Melancia",
+      "category": "Fruta"
+    },
+    {
+      "id": 99,
+      "word_tent": "Zutaiwa",
+      "word_port": "Fruta do jatobá",
+      "category": "Fruta"
+    },
+    {
+      "id": 100,
+      "word_tent": "Zytyk",
+      "word_port": "Batata",
+      "category": "Fruta"
+    }
+  ]
+}
